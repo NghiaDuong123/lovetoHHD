@@ -77,4 +77,10 @@
         transform: scale(1);
       }
     }
-/* scale up */
+    #text {
+      height : 206px;
+      width : 100%;
+      position : absolute;
+      bottom : 0;
+      z-index : 3;
+    }
