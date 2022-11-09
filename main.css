@@ -45,13 +45,6 @@
       border-top-left-radius: 50px;
       border-top-right-radius: 50px;
     }
-    .text {
-      height : 206px;
-      width : 100%;
-      position : absolute;
-      bottom : 0;
-      z-index : 3;
-    }
     #pinkboard:before {
       left: 100px;
       transform: rotate(-45deg);
